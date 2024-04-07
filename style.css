@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(216, 216, 216);
+    font-family:'Lucida Sans Unicode',sans-serif ;
+    margin:0;
+    padding: 0;
+}
+header{
+    background-color: rgb(37, 37, 37);
+    color:#fff;
+    padding:10px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(92, 92, 92) ;
+    text-align: center ;
+    padding:10px ;
+}
+nav a{
+    color:#fff;
+    text-decoration: none;
+    padding: 10px;
+}
+nav a:hover {
+    background-color: rgb(64, 64, 64);
+}
+section{
+    margin: 20px;
+    text-align: center;
+}
+img{
+    width:60;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100;
+}
